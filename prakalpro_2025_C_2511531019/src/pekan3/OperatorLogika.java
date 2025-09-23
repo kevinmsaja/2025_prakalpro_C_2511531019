@@ -13,7 +13,7 @@ public class OperatorLogika {
 		keyboard.close();
 		System.out.println("A1 = " + A1);
 		System.out.println("A2 = " + A2);
-		System.out.println("Konjungsi" );
+		System.out.println("Konjungsi");
 		c = A1 && A2;
 		System.out.println("true and false = " + c);
 		System.out.println("Disjungsi");
